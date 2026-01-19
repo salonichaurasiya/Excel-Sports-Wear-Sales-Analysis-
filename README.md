@@ -1,59 +1,106 @@
-# Sportswear Sales Analysis Dashboard (Excel Project)
+# 🏀 Sportswear Sales Dashboard (Excel Project)
 
-## Project Overview
-This project analyzes sportswear sales data using Excel. It includes data cleaning, KPI calculations, pivot table analysis, and an interactive dashboard.
+## 📌 Project Overview
 
-## Dataset Used
-Columns in the dataset:
-- Order Date
-- Region
-- Category
-- Sub-Category
-- Brand
-- Quantity Sold
-- Unit Price
-- Discount
-- Revenue
+This project analyzes Sportswear sales data using Microsoft Excel.
+The dashboard provides insights on **total sales, quantity sold, state-wise performance, brand contribution, and regional trends**.
+It is built using Pivot Tables, Pivot Charts, and Slicers for interactivity.
 
-## Objectives
-- Identify top-selling categories
-- Analyze region-wise performance
-- Study monthly sales trend
-- Compare brand performance
-- Understand revenue contribution
+---
 
-## Excel Skills Used
-- Data Cleaning
-- Pivot Table
-- Pivot Chart
-- Slicers
-- Conditional Formatting
-- Dashboard Design
+## 📊 Key Metrics (KPIs)
 
-## KPIs
-- Total Sales
-- Total Quantity Sold
-- Average Discount
-- Top Categories
-- Best Regions
-- Monthly Trend
+* **Total Sales:** 1,715,528,770
+* **Total Quantity:** 3,254,650.75
+* **Order Count:** 28,603
 
-## Dashboard Features
-- Monthly sales trend chart
-- Region and category comparison
-- Brand performance chart
-- Top 5 products table
-- Interactive slicers
+---
 
-## Insights
-- Best performing region
-- Highest sales month
-- Top product category
-- Brand with biggest contribution
+## 📈 Dashboard Visuals
 
-## Files Included
-- SportWears sales dashboard.xlsx
-- README.md
+The dashboard contains the following charts:
 
-## Author
-Saloni Chaurasiya
+### **1. Brand-wise Sales Bar Chart**
+
+* Nike leads with the highest revenue
+* Adidas, Puma also contribute significantly
+* Max Air shows lower sales in comparison
+
+### **2. State-wise Sales Line Chart**
+
+* Bihar contributes highest revenue among states
+* Gujarat, Karnataka, Maharashtra show moderate performance
+* West Bengal also shows strong sales
+
+### **3. State-wise Horizontal Bar Chart**
+
+* West Bengal and Maharashtra perform well
+* Gujarat and Karnataka show mid-level sales
+* Bihar is a high-performing state across visuals
+
+### **4. Region-wise Pie Chart**
+
+Includes:
+
+* Central
+* East
+* North
+* South
+* West
+* (blank)
+
+Each slice represents revenue share by region.
+
+### **5. City-wise Sales Column Chart**
+
+Top performing cities include:
+
+* Patna Junction
+* Ranchi
+* Muzaffarpur
+* Kolkata
+* Sriganganagar
+
+---
+
+## 🛠️ Excel Skills Used
+
+* Data Cleaning
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Conditional Formatting
+* Chart Formatting
+* Dashboard Designing
+
+---
+
+## 🎯 Insights From Dashboard
+
+* **Nike** is the best-performing brand by revenue.
+* **Bihar** has the highest sales among all states.
+* **Patna Junction** is the top-performing city.
+* Sales distribution varies widely across regions with notable concentration in East and Central.
+* Category and brand filters allow interactive exploration.
+
+---
+
+## 📂 Files Included
+
+* `SportWears sales dashboard.xlsx` – Excel dashboard
+* `README.md` – Project documentation
+
+---
+
+## 🚀 Tools Used
+
+* Microsoft Excel
+* Pivot Tables / Pivot Charts
+
+---
+
+## 👩‍💻 Author
+
+**Saloni Chaurasiya**
+
+---
